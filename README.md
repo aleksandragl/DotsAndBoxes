@@ -51,7 +51,7 @@ Seis salvestatakse 9-sümbolilise stringina, näiteks `"0000000.A"`:
      - 3 tõmmatud joont kastil: `+5.0`
      - 2 tõmmatud joont kastil: `+2.0`
      - 1 tõmmatud joon kastil: `+0.5`
-   - Algoritm on optimeeritud eelarvutatud üleminekutabeli (*lookup table*) abil, saavutades ~18-kordse kiirusekasvu ja külastades täpselt samad 8,660 sõlme sügavusel 6.
+   - Algoritm on optimeeritud eelarvutatud üleminekutabeli (*lookup table*) abil, saavutades ~6-kordse kiirusekasvu ja külastades täpselt samad 8,660 sõlme sügavusel 6.
 
 2. **Greedy (Ahne strateegia):**
    - Kui leidub käik, mis sulgeb koheselt kasti, valib selle.
